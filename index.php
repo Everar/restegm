@@ -1,7 +1,7 @@
     <?php
         $db_host = "am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
         $db_user = "r6dakcllmlu9yrvx";
-        $db_password = "plvyd1itkfzooknr";
+        $db_password = "kv4j39xhign75jre";
        
         $db_name = "azrd3bql1guetrj0";
       $connection = mysqli_connect('am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'r6dakcllmlu9yrvx', 'plvyd1itkfzooknr');
