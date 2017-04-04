@@ -4,7 +4,7 @@
         $db_password = "kv4j39xhign75jre";
        
         $db_name = "azrd3bql1guetrj0";
-      $connection = mysqli_connect('am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'r6dakcllmlu9yrvx', 'plvyd1itkfzooknr');
+      $connection = mysqli_connect('am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'r6dakcllmlu9yrvx', 'kv4j39xhign75jre');
     
      mysqli_select_db($connection, $db_name) or die("Error al seleccionar la base de datos:".mysqli_error());
     @mysqli_query("SET NAMES 'utf8'");
